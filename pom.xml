@@ -3,4 +3,21 @@
   <groupId>be.kuleuven.esat.electa</groupId>
   <artifactId>jdyn</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.github.rwl</groupId>
+  		<artifactId>parallelcolt</artifactId>
+  		<version>0.9.4-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>com.github.rwl</groupId>
+  		<artifactId>parallelcolt-util</artifactId>
+  		<version>0.1.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>edu.cornell.pserc</groupId>
+  		<artifactId>jpower</artifactId>
+  		<version>4.0.0-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
